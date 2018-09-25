@@ -6,9 +6,12 @@
         </div>
 
         <h1>
-            <span class="site-title">[{{site.username}}]</span>
+            <span class="site-title">{ {{site.username}} }</span>
         </h1>
-
+        <p style="color: silver;font-size: 1.2rem;font-family: monospace;width: 30%;max-width: 400px;margin: auto;">
+            {{site.description}}
+        </p>
+        <br /><br />
         <div class="icons-home">
             <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
                 <svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg>
