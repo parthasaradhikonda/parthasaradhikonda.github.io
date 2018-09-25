@@ -2,7 +2,7 @@ title: Partha Saradhi Konda - Web Developer
 description: I'm a polyglot developer. Love to reach & write the code.
 baseurl: ''
 url: 'https://parthakonda.github.io'
-username: parthakonda
+username: partha saradhi konda
 user_title: Partha Saradhi Konda
 email: parthasaradhi.konda@gmail.com
 twitter_username: parthakonda
@@ -38,11 +38,11 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: 'http://www.github.com/parthakonda'
+      url: ''
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: 'http://www.twitter.com/parthakonda'
+      url: ''
       key_trigger: t
     - title: search
       url: ''
