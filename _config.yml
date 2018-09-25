@@ -1,0 +1,56 @@
+title: Partha Saradhi Konda - Web Developer
+description: I'm a polyglot developer. Love to reach & write the code.
+baseurl: ''
+url: 'https://parthakonda.github.io'
+username: parthakonda
+user_title: Partha Saradhi Konda
+email: parthasaradhi.konda@gmail.com
+twitter_username: parthakonda
+github_username: parthakonda
+gplus_username: parthakonda
+linkedin_public_url: parthakonda
+disqus_username: parthakonda
+profile_picture: /assets/img/partha_saradhi_konda.jpg
+markdown: kramdown
+highlighter: rouge
+permalink: '/:title/'
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: Articles
+      url: /posts
+      key_trigger: 2
+    - title: series
+      url: /series
+      key_trigger: 3
+    - title: tags
+      url: /tags
+      key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
+  section_2:
+    - title: github
+      url: 'http://www.github.com/parthakonda'
+      new_tab: true
+      key_trigger: g
+    - title: twitter
+      url: 'http://www.twitter.com/parthakonda'
+      key_trigger: t
+    - title: search
+      url: ''
+      key_trigger: s
+projects:
+  - name: elask
+    url: 'https://github.com/inmar/elask'
+exclude:
+  - package.json
+  - src
+  - node_modules
