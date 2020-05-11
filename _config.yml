@@ -1,51 +1,75 @@
-title: Partha Saradhi Konda - I'm a polyglot developer, good at python, django, java, spring, js, nodejs,
-  angularjs, vue, docker, aws, terraform, ansible. Love to read & write the
-  code.
+name: parthakonda.dev
+title: Polyglot Engineer
 description: >-
-  I'm a polyglot developer, good at python, django, java, spring, js, nodejs,
-  angularjs, vue, docker, aws, terraform, ansible. Love to read & write the
-  code.
-baseurl: ''
-url: 'https://parthakonda.github.io'
-username: partha saradhi konda
-user_title: Partha Saradhi Konda
+  I'm a polyglot developer - python, node, go, ruby, react, vue, ang js, docker,
+  k8s, aws, terraform, ansible and chef. Love to read & write the code
+tags: []
 email: parthasaradhi.konda@gmail.com
-twitter_username: parthakonda
-github_username: parthakonda
-gplus_username: parthakonda
-linkedin_public_url: parthakonda
 disqus_username: parthakonda
-profile_picture: /assets/img/partha_saradhi_konda.jpg
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+github_username: parthakonda
+facebook_username: parthakonda
+twitter_username: parthakonda
+instagram_username: parthakonda
+linkedin_username: parthakonda
+medium_username: parthakonda
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+baseurl: ''
+url: ''
+google_analytics: UA-166084070-1
+language: en
+categories_folder: category
+sent_message_url: /contact/message-sent/
 markdown: kramdown
 highlighter: rouge
 permalink: '/:title/'
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
-links:
-  section_1:
-    - title: home
-      url: /
-      key_trigger: 1
-    - title: Articles
-      url: /posts
-      key_trigger: 2
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-  section_2:
-    - title: search
-      url: ''
-      key_trigger: s
-projects:
-  - name: elask
-    url: 'https://github.com/inmar/elask'
+collections:
+  authors:
+    output: true
+paginate_path: '/page/:num/'
+show_get_theme_btn: true
+use_logo: false
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: '--page-break--'
+  permalink: '/:num/'
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
 exclude:
   - package.json
+  - package-lock.json
   - src
   - node_modules
+  - initpost.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - README.md
+version: v3.1.0
