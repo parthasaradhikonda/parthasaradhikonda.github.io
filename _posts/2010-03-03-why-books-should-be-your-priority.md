@@ -1,6 +1,7 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
+comments: true
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
