@@ -10,3 +10,5 @@ permalink: "/about/"
 # About
 
 I'm a polyglot engineer.
+
+I'm a good at python, node, go, ruby, react, vue, ang js, docker, k8s, aws, terraform, ansible and chef. Love to read & write the code
