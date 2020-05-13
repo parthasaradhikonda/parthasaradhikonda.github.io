@@ -88,6 +88,10 @@ body {
     height: rem(30px);
     cursor: pointer;
     margin: 0;
+    display: none;
+    @include media(">=md") {
+      display: inline;
+    }
     @include media(">=sm") {
       margin: 0 rem(20px) 0 0;
     }
