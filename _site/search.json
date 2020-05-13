@@ -3,6 +3,22 @@
   
   
     {
+      "title"    : "Full Stack Python",
+      "tags"     : "python, course, full-stack, flask, pandas, selenium, and freemium",
+      "categories" : "interview-questions",
+      "url"      : "/full-stack-python/",
+      "date"     : "05/13/2020"
+    } ,
+  
+    {
+      "title"    : "Setup evelopment environment",
+      "tags"     : "tech and developer",
+      "categories" : "developer",
+      "url"      : "/setup-evelopment-environment/",
+      "date"     : "05/11/2020"
+    } ,
+  
+    {
       "title"    : "Why books should be your priority?",
       "tags"     : "books and read",
       "categories" : "life",
@@ -29,7 +45,7 @@
     {
       "title"    : "Candy, candies, candy!",
       "tags"     : "food and tips",
-      "categories" : "diet",
+      "categories" : "courses",
       "url"      : "/candy-candies-candy/",
       "date"     : "04/21/2018"
     } ,

@@ -1,16 +1,17 @@
 ---
-date: 2018-11-22 12:26:40
+title: Why books should be your priority?
+date: '2018-11-22 12:26:40 +0000'
 layout: post
 comments: true
-title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
-  - books
-  - read
+- books
+- read
 author: thiagorossener
 paginate: true
 ---
@@ -37,6 +38,10 @@ HTML defines a long list of available inline tags, a complete list of which can 
 Most of these elements are styled by browsers with few modifications on our part.
 
 <!--page-->
+
+<iframe width="948" height="533" src="https://www.youtube.com/embed/zqEcmUNCCy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 # Heading 1
 
@@ -136,13 +141,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 <!--page-->
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
