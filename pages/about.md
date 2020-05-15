@@ -22,7 +22,7 @@ I'm a polyglot engineer and mentor with over many years of experience in buildin
 I currently resides in India, and spends most of my weekends helping engineers reach their next level of career.
 
 
-### Would like to hire me or would like have a word with me?
+### Would like to hire me or would like to have a chat with me?
 You can contact me [here](https://parthakonda.dev/contact)
 
 **Happy Coding...**
