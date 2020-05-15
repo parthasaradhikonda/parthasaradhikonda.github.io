@@ -21,6 +21,8 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
+    position: relative;
+    top: -3px;
 
     a {
       display: block;
@@ -89,12 +91,50 @@ body {
     cursor: pointer;
     margin: 0;
     display: none;
+    top: -6px;
+    position: relative;
     @include media(">=md") {
       display: inline;
     }
     @include media(">=sm") {
       margin: 0 rem(20px) 0 0;
     }
+  }
+
+  .docourses:before {
+    content: "";
+    position: absolute;
+    width: 95%;
+    height: 2px;
+    bottom: -3px;
+    left: 0;
+    background-color: orangered;
+    text-align: center;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+  }
+
+  .docourses:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+
+  .docourses:hover {
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    transition: all 0.8s;
+    color: white;
+  }
+
+  
+  .about-me {
+    position: relative;
+    top: 8px;
+    float:right;
+    width: 100px;
+    color: orangered
   }
 
   .icon-search {
@@ -144,6 +184,10 @@ body.light:not(.main-page) {
     .version {
       color: $primaryDark;
     }
+  }
+
+  #courses:hover {
+    color: black !important;
   }
 }
 

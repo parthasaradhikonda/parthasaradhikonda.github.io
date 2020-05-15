@@ -22,6 +22,7 @@ footer {
   }
 
   p {
+    text-align: center;
     text-decoration: none;
     color: $primaryDark;
     font-size: rem(16px);
@@ -70,9 +71,13 @@ footer {
   ul {
     padding: 0;
     list-style-type: none;
+    text-align: center;
+    margin-top: 3rem;
 
     li {
       margin-bottom: rem(10px);
+      display: inline-block;
+      margin-right: 25px;
     }
 
     a {
@@ -81,9 +86,15 @@ footer {
       
       &:hover {
         text-decoration: underline;
+        color: orangered;
       }
     }
+    &:after {
+      border: 1px solid #e6e6e6;
+      width: 100%;
+    }
   }
+  
 }
 
 .main-page {
