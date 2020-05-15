@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1652" height="757" viewBox="0 0 1652 757">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-13, .cls-14, .cls-2 {
+        fill: #ff9336;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-12, .cls-16, .cls-21, .cls-3, .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-14, .cls-18, .cls-3, .cls-5 {
+        font-family: HiraKakuStdN-W8, Hiragino Kaku Gothic StdN;
+      }
+
+      .cls-17, .cls-18, .cls-4 {
+        fill: #36c9ff;
+      }
+
+      .cls-5 {
+        font-size: 25px;
+      }
+
+      .cls-10, .cls-6, .cls-9 {
+        fill: #b236ff;
+      }
+
+      .cls-11, .cls-15, .cls-20, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        stroke: #b236ff;
+      }
+
+      .cls-11, .cls-15, .cls-7 {
+        stroke-width: 4px;
+      }
+
+      .cls-10, .cls-14, .cls-18 {
+        font-size: 18px;
+      }
+
+      .cls-11, .cls-12, .cls-13 {
+        stroke: #ff9336;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        stroke: #36c9ff;
+      }
+
+      .cls-19 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1652" height="757"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-21" width="1652" height="757"/>
+    <g id="Tile" transform="translate(-690 -90)">
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2" transform="translate(825 165)">
+        <rect class="cls-19" width="413" height="100" rx="8"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="412" height="99" rx="7.5"/>
+      </g>
+      <text id="Web_Development" data-name="Web Development" class="cls-3" transform="translate(872 225)"><tspan x="0" y="0">Web Development</tspan></text>
+    </g>
+    <g id="Tile-2" data-name="Tile" transform="translate(-197 -90)">
+      <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-4" transform="translate(825 165)">
+        <rect class="cls-19" width="413" height="100" rx="8"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="412" height="99" rx="7.5"/>
+      </g>
+      <text id="Mobile_App_Development" data-name="Mobile 
+App Development" class="cls-5" transform="translate(1032 200)"><tspan x="-52.025" y="0">Mobile </tspan><tspan x="-131.05" y="43">App Development</tspan></text>
+    </g>
+    <g id="Tile-3" data-name="Tile" transform="translate(296 -90)">
+      <g id="Rectangle_1-3" data-name="Rectangle 1" class="cls-6" transform="translate(825 165)">
+        <rect class="cls-19" width="413" height="100" rx="8"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="412" height="99" rx="7.5"/>
+      </g>
+      <text id="DevOps" class="cls-3" transform="translate(963 225)"><tspan x="0" y="0">DevOps</tspan></text>
+    </g>
+    <g id="DevOps_item" data-name="DevOps item" transform="translate(-5)">
+      <g id="Connector" transform="translate(990)">
+        <line id="Line_1" data-name="Line 1" class="cls-7" y2="488.227" transform="translate(173.5 175.5)"/>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-8" transform="translate(164 223)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" class="cls-8" transform="translate(164 285)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_4" data-name="Ellipse 4" class="cls-8" transform="translate(164 345)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" class="cls-8" transform="translate(164 405)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" class="cls-8" transform="translate(164 466)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" class="cls-8" transform="translate(164 527)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" class="cls-8" transform="translate(164 587)">
+          <ellipse class="cls-19" cx="10" cy="10.5" rx="10" ry="10.5"/>
+          <ellipse class="cls-20" cx="10" cy="10.5" rx="9.5" ry="10"/>
+        </g>
+        <g id="Ellipse_11" data-name="Ellipse 11" class="cls-9" transform="translate(164 657)">
+          <ellipse class="cls-19" cx="10" cy="10.5" rx="10" ry="10.5"/>
+          <ellipse class="cls-20" cx="10" cy="10.5" rx="9.5" ry="10"/>
+        </g>
+      </g>
+      <text id="Ansible" class="cls-10" transform="translate(1186 240)"><tspan x="0" y="0">Ansible</tspan></text>
+      <text id="Chef" class="cls-10" transform="translate(1186 301)"><tspan x="0" y="0">Chef</tspan></text>
+      <text id="Terraform" class="cls-10" transform="translate(1186 361)"><tspan x="0" y="0">Terraform</tspan></text>
+      <text id="Cloudformation" class="cls-10" transform="translate(1186 421)"><tspan x="0" y="0">Cloudformation</tspan></text>
+      <text id="Docker" class="cls-10" transform="translate(1186 481)"><tspan x="0" y="0">Docker</tspan></text>
+      <text id="Kubernetes" class="cls-10" transform="translate(1186 541)"><tspan x="0" y="0">Kubernetes</tspan></text>
+      <text id="Helm" class="cls-10" transform="translate(1186 601)"><tspan x="0" y="0">Helm</tspan></text>
+    </g>
+    <g id="DevOps_item-2" data-name="DevOps item" transform="translate(-990)">
+      <g id="Connector-2" data-name="Connector" transform="translate(990)">
+        <line id="Line_1-2" data-name="Line 1" class="cls-11" y2="428" transform="translate(173.5 175.5)"/>
+        <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-12" transform="translate(164 223)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-12" transform="translate(164 285)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_4-2" data-name="Ellipse 4" class="cls-12" transform="translate(164 345)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_5-2" data-name="Ellipse 5" class="cls-12" transform="translate(164 405)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_6-2" data-name="Ellipse 6" class="cls-12" transform="translate(164 466)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_7-2" data-name="Ellipse 7" class="cls-12" transform="translate(164 527)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_9" data-name="Ellipse 9" class="cls-13" transform="translate(164 587)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+      </g>
+      <text id="Python_Stack" data-name="Python Stack" class="cls-14" transform="translate(1186 243)"><tspan x="0" y="0">Python Stack</tspan></text>
+      <text id="Go_Stack" data-name="Go Stack" class="cls-14" transform="translate(1186 304)"><tspan x="0" y="0">Go Stack</tspan></text>
+      <text id="Node_Stack" data-name="Node Stack" class="cls-14" transform="translate(1186 364)"><tspan x="0" y="0">Node Stack</tspan></text>
+      <text id="React" class="cls-14" transform="translate(1186 424)"><tspan x="0" y="0">React</tspan></text>
+      <text id="Angular" class="cls-14" transform="translate(1186 484)"><tspan x="0" y="0">Angular</tspan></text>
+      <text id="VueJS" class="cls-14" transform="translate(1186 545)"><tspan x="0" y="0">VueJS</tspan></text>
+    </g>
+    <g id="DevOps_item-3" data-name="DevOps item" transform="translate(-500)">
+      <g id="Connector-3" data-name="Connector" transform="translate(990)">
+        <line id="Line_1-3" data-name="Line 1" class="cls-15" x2="1" y2="183" transform="translate(173.5 175.5)"/>
+        <g id="Ellipse_2-3" data-name="Ellipse 2" class="cls-16" transform="translate(164 223)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_3-3" data-name="Ellipse 3" class="cls-16" transform="translate(164 284)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+        <g id="Ellipse_10" data-name="Ellipse 10" class="cls-17" transform="translate(164 354)">
+          <circle class="cls-19" cx="10" cy="10" r="10"/>
+          <circle class="cls-20" cx="10" cy="10" r="9.5"/>
+        </g>
+      </g>
+      <text id="React_Native" data-name="React Native" class="cls-18" transform="translate(1186 240)"><tspan x="0" y="0">React Native</tspan></text>
+      <text id="Flutter" class="cls-18" transform="translate(1186 301)"><tspan x="0" y="0">Flutter</tspan></text>
+    </g>
+  </g>
+</svg>
