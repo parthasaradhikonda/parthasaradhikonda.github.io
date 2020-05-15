@@ -1,9 +1,12 @@
 name: parthakonda.dev
 title: Polyglot Engineer
 description: >-
-  I'm a polyglot developer - python, node, go, ruby, react, vue, ang js, docker,
-  k8s, aws, terraform, ansible and chef. Love to read & write the code
-tags: []
+  I'm a consultant, trainer and polyglot engineer. I help startups and
+  individuals who are looking for quickly convert the Idea into product.
+tags:
+  - consultant
+  - trainer
+  - polyglotengineer
 email: parthasaradhi.konda@gmail.com
 disqus_username: https-www-parthakonda-dev
 show_hero: true
