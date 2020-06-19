@@ -22,7 +22,6 @@ body {
     height: rem(32px);
     line-height: rem(32px);
     position: relative;
-    top: -3px;
 
     a {
       display: block;
@@ -74,6 +73,8 @@ body {
     float: right;
     width: rem(30px);
     height: rem(30px);
+    top: 16px;
+    position: relative;
     cursor: pointer;
     margin: 0;
     @include media(">=sm") {
@@ -91,7 +92,7 @@ body {
     cursor: pointer;
     margin: 0;
     display: none;
-    top: -6px;
+    top: -20px;
     position: relative;
     @include media(">=md") {
       display: inline;
@@ -131,7 +132,7 @@ body {
   
   .about-me {
     position: relative;
-    top: 8px;
+    top: 24px;
     float:right;
     width: 100px;
     color: orangered
@@ -162,6 +163,18 @@ body {
   }
 }
 
+body {
+
+  .logo-light {
+    display: inline-block;
+
+  }
+
+  .logo-dark {
+    display: none;
+  }
+}
+
 body.main-page {
   background-color: #141414;
 
@@ -189,6 +202,14 @@ body.light:not(.main-page) {
   #courses:hover {
     color: black !important;
   }
+  .logo-light {
+    display: none;
+  }
+
+  .logo-dark {
+    display: inline-block;
+  }
+
 }
 
 .overlay {
