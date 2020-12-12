@@ -13,14 +13,6 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Courses
-    url: /category/courses
-  - title: Interviewes
-    url: /category/interviews/
-  - title: Quiz
-    url: /quiz
-  - title: Apps Hub
-    url: /app/
   - title: Contact Me
     url: /contact
   - title: About
