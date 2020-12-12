@@ -3,18 +3,18 @@
   <channel>
     <title>Polyglot Engineer</title>
     <description>I'm a consultant, trainer and polyglot engineer. I help startups and individuals who are looking for quickly convert the Idea into product.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Dec 2020 17:29:53 +0530</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2020 17:29:53 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Dec 2020 17:31:36 +0530</pubDate>
+    <lastBuildDate>Sat, 12 Dec 2020 17:31:36 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
         <title>Developer analysis on SES</title>
         <description>&lt;h1 id=&quot;aws-ses-developer-analysis&quot;&gt;AWS SES (developer analysis)&lt;/h1&gt; &lt;ul&gt; &lt;li&gt; &lt;h2 id=&quot;understanding-ses&quot;&gt;Understanding SES&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;understanding-sandbox-mode&quot;&gt;Understanding Sandbox Mode&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;steps-to-follow&quot;&gt;Steps to follow&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;h3 id=&quot;verifying-domain&quot;&gt;Verifying Domain&lt;/h3&gt; &lt;/li&gt; &lt;li&gt; &lt;h3 id=&quot;verifying-email&quot;&gt;Verifying Email&lt;/h3&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;understanding-notification-for-an-identity&quot;&gt;Understanding Notification for an Identity&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;setting-up-notification-for-an-identity&quot;&gt;Setting up Notification for an Identity&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;understanding-configurationsets&quot;&gt;Understanding ConfigurationSets&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;steps-to-follow-to-configure-the-webhook-events&quot;&gt;Steps to follow to configure the webhook events&lt;/h2&gt; &lt;/li&gt; &lt;li&gt; &lt;h2 id=&quot;understanding-supression-list&quot;&gt;Understanding Supression List&lt;/h2&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h1 id=&quot;understanding-ses-1&quot;&gt;Understanding SES&lt;/h1&gt; &lt;p&gt;Simple Email Service is an email service provided by AWS where we’ve provision for both send and recieve emails.&lt;/p&gt; &lt;ul&gt;...</description>
         <pubDate>Thu, 25 Jun 2020 07:57:45 +0530</pubDate>
-        <link>http://localhost:4000/developer-analysis-on-ses/</link>
-        <guid isPermaLink="true">http://localhost:4000/developer-analysis-on-ses/</guid>
+        <link>/developer-analysis-on-ses/</link>
+        <guid isPermaLink="true">/developer-analysis-on-ses/</guid>
         
         <category>ses</category>
         
