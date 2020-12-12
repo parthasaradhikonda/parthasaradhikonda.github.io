@@ -12,6 +12,7 @@ tags:
 - ses
 - aws
 author: parthakonda
+category: quiz
 ---
 
 # AWS SES (developer analysis)
