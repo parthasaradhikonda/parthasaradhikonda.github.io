@@ -14,7 +14,7 @@ I'm a consultant, trainer and polyglot engineer. I help startups and individuals
 
 <img class="" src="/assets/img/consulting.svg" alt="Consulting" width="100%">
 ### Trainings & Workshops
-I do trainings and workshops for enterprises, startups, colleges and individuals who wants to upgrade their skills or wants to transform the career into different technologies or domains. The approach of delivering course will be exciting unique experience and real-time patterns. You can find different courses that I'm offering [here](https://www.parthakonda.dev/category/courses/).
+I do trainings and workshops for enterprises, startups, colleges and individuals who wants to upgrade their skills or wants to transform the career into different technologies or domains. The approach of delivering course will be exciting unique experience and real-time patterns. You can find different courses that I'm offering [here](https://www.parthakonda.dev/courses/full-stack-python-course-by-partha/).
 
 ### About me
 I'm a polyglot engineer and mentor with over many years of experience in building exciting products for startups and MNC’s. My experience in working with different technologies and different people brought high pace at work, high precision, good coding skills and problem solving skills. I also do good open source contributions towards cutting edge technologies. You can find my contributions [here](https://www.github.com/parthakonda).
