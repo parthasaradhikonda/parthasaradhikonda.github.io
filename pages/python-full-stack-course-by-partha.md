@@ -171,3 +171,22 @@ Note: course outline may vary slightly based on the regional location and/or lan
 Partha is a polyglot engineer and mentor with over many years of experience in building exciting products for startups and MNC’s. His experience in working with different technologies brought him good coding skills and problem solving skills. He also does good open source contributions towards cutting edge technologies.
 
 Partha currently resides in India, and spends most of his weekends helping engineers reach their next level of career.
+
+## Register this course today
+<!-- modify this form HTML and place wherever you want your form -->
+
+<div class="container">
+  <div id="form" class="contact-form">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/f/xrgoyywd">
+      <fieldset>
+        <input type="text" name="name" placeholder="Your name" required="true">
+
+        <input type="email" name="email" placeholder="Your email" required="true">
+       
+        <textarea name="message" placeholder="Help me understand your current background and how you want this course'" required="true"></textarea>
+        <button type="submit">Register Now</button>
+      </fieldset>
+    </form>
+  </div>
+
+</div>
