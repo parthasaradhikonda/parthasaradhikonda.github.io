@@ -13,6 +13,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: FullStack-Python Course
+    url: /courses/full-stack-python-course-by-partha/
   - title: Contact Me
     url: /contact
   - title: About
