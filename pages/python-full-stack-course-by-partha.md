@@ -10,6 +10,8 @@ tags:
 - science
 date: '2020-12-13 13:02:45'
 permalink: "/courses/full-stack-python-course-by-partha/"
+image: "/assets/img/python-full-stack-course-by-partha.png"
+file: "/assets/img/python-full-stack-course-by-partha.png"
 ---
 
 ## About this course
